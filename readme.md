@@ -1,0 +1,13 @@
+mwe-harmonize/
+  index.html
+  clientes.html
+  financeiro.html
+  repertorio.html
+  evento.html
+  css/
+    base.css
+    components.css
+    pages.css
+  assets/
+    images/
+    icons/
